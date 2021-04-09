@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Diego-Hiriart
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning .NET, UWP, Xamarin, data bases
-- 💞️ I’m looking to collaborate on nope
-- 📫 How to reach me nope
+- 💞️ I’m looking to collaborate on C#
+- 📫 How to reach me: LinkedIn
 
 <!---
 Diego-Hiriart/Diego-Hiriart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
