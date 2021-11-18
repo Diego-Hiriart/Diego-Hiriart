@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Diego-Hiriart
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning .NET, UWP, Xamarin, data bases
-- 💞️ I’m looking to collaborate on C#
-- 📫 How to reach me: LinkedIn
+- 👀 I’m interested in coding and solving real-life problems
+- 🌱 I’m currently learning: Unity, modeling and simulation, cibersecurity, data bases (SQl)
+- 💞️ I’m looking to collaborate on: C#, python
+- 📫 How to reach me: 
+  - LinkedIn: https://www.linkedin.com/in/diego-hiriart-leon/
+  - Email: hiriart.leon.d@gmail.com
 
 <!---
 Diego-Hiriart/Diego-Hiriart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
