@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning: Unity, modeling and simulation, cibersecurity, data bases (SQl)
 - 💞️ I’m looking to collaborate on: C#, python
 - 📫 How to reach me: 
-  - LinkedIn: https://www.linkedin.com/in/diego-hiriart-leon/
-  - Email: hiriart.leon.d@gmail.com
+    - LinkedIn: https://www.linkedin.com/in/diego-hiriart-leon/
+    - Email: hiriart.leon.d@gmail.com
 
 <!---
 Diego-Hiriart/Diego-Hiriart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
