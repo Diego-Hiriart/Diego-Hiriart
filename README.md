@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diego-Hiriart
 - 👀 I’m interested in coding and solving real-life problems
-- 🌱 I’m currently learning: Unity, modeling and simulation, cibersecurity, data bases (SQL)
+- 🌱 I’m currently learning: front-end, BI, distributed applications
 - 💞️ I’m looking to collaborate on: C#, python
 - 📫 How to reach me: 
     - LinkedIn: https://www.linkedin.com/in/diego-hiriart-leon/
